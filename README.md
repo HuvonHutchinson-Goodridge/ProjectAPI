@@ -9,7 +9,7 @@ In the project direction you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:5000](http://localhost:5000) to view it in your browser
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser
 
 Must restart server in order to see changes
 You may also see any errors in the terminal
@@ -18,7 +18,7 @@ You may also see any errors in the terminal
 
 Runs the app in development mode using nodemon
 
-Open [http://localhost:5000](http://localhost:5000) to view it in your browser
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser
 
 The page will reload when you make changes on saving file.
 You may also see any errors in the terminal
