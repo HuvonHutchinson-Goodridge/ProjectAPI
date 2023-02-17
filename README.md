@@ -1,3 +1,7 @@
+# Project API
+
+Node / Express API that uses Mongo DB to manage projects, users, and software issues on applications that groups are working on.
+
 # Getting Started with Express
 
 This project was bootstrapped with [Express](https://github.com/expressjs/express).
